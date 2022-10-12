@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=update
+GenericName=update
+Exec=gnome-terminal -- /bin/sh -c /home/sysadmin/.config/conky/scripts/update.sh
+Type=Application
+Icon=system-software-update
+Terminal=true
+Categories=GNOME;GTK;Utility
+

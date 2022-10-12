@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Name=data
+GenericName=data
+Exec=/home/sysadmin/.config/conky/scripts/checkupdts.sh
+Type=Application
